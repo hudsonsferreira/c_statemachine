@@ -1,0 +1,10 @@
+GeneratorModel for yakindu::c {
+
+	statechart default {
+
+		feature Outlet {
+			targetProject = "Test"
+			targetFolder = "src-gen"
+		}
+	}
+}
